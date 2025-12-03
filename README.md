@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://harika-cloth-brand-ecommerce.vercel.app/
 
 ## Features
 
@@ -24,7 +24,7 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssingapoguharika/React_E-Commerce
+  git clone https://harika-cloth-brand-ecommerce.vercel.app/
 ```
 
 Go to the project directory
@@ -62,6 +62,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://ssingapoguharika.github.io/#contact)
+If you have any feedback, please reach out to me [here](https://singapoguharika.github.io/#contact)
 
 
